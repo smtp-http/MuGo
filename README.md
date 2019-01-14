@@ -89,4 +89,8 @@ Running unit tests
 python -m unittest discover tests
 ```
 
-blog: [如何利用 Python 打造一款简易版 AlphaGo](https://www.jiqizhixin.com/articles/2017-01-09-6)
+blog: 
+[如何利用 Python 打造一款简易版 AlphaGo](https://www.jiqizhixin.com/articles/2017-01-09-6)
+[電腦圍棋 GoGUI 1.4.9 下載、安裝 + GNU Go 安裝 (Windows)](http://shaurong.blogspot.com/2016/01/gogui-gnu-go-windows.html)
+[Ubuntu 18.04 初体验](https://zhuanlan.zhihu.com/p/36610043)
+
