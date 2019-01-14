@@ -88,3 +88,5 @@ Running unit tests
 ```python
 python -m unittest discover tests
 ```
+
+blog: [如何利用 Python 打造一款简易版 AlphaGo](https://www.jiqizhixin.com/articles/2017-01-09-6)
